@@ -9,7 +9,6 @@ function App() {
 
     const handleSubmit = (event) => {
         event.preventDefault();
-
         setError("");
         setSuccess("");
 
